@@ -1,0 +1,17 @@
+The Construction class is completed for you, but you may want to look at it to make sure you understand how to use it.
+
+Then write a program in the main method that asks the user to enter the sales tax rate as a decimal, the number of boards needed, and the number of windows needed.
+
+Create a Construction object to compute the cost of the lumber and windows. Use $8 for the cost of lumber. Use $11 for the cost of windows.
+
+Print the total cost. Then use the method to compute the tax and print out the grand total including tax.
+Here is an example of the output
+
+Enter the sales tax rate: 
+ .08
+How many boards do you need? 
+ 10
+How many windows do you need? 
+ 5
+Total: $135.0
+Grand Total: $145.8
